@@ -1,0 +1,355 @@
+[
+    {
+      "nev": "Martina Le",
+      "picture": "47.jpg",
+      "tel": "+36 (846) 593-3952",
+      "mail": "martinale@octocore.com",
+      "link": "elitaliquip.com",
+      "bemutatkozo": "Dolore duis nisi voluptate et ipsum ad aliquip ea aliqua duis. Ullamco mollit velit eu voluptate laboris aliquip fugiat veniam eu sunt. Consequat eiusmod nostrud et id nulla sunt labore laborum. Anim reprehenderit Lorem exercitation culpa. Pariatur laboris culpa aliqua qui in adipisicing exercitation pariatur. In anim velit consequat aliqua et.\r\n",
+      "online": true,
+      "szulesfelkeszites": false,
+      "hely": {
+        "telepules": "Budapest, 3. kerület",
+        "coord": [
+          17.44,
+          45.08
+        ],
+        "tavolsag": 10
+      },
+      "kompetenciak": [
+        "tréner, jógaoktató, más mozgásforma oktatója",
+        "hordozási tanácsadó",
+        "masszőr, gyógytornász, kinesiotape szakértő, egyéb terapeuta"
+      ],
+      "altipus": [
+        "intimtorna tréner", 
+        "maminbaba oktató", 
+        "kinesiotape szakértő"],
+      "nyelv": [],
+      "tovabbiKomp": [
+        "ápoló"
+      ]
+    },
+    {
+      "nev": "Ashlee Chambers",
+      "picture": "45.jpg",
+      "tel": "+36 (825) 403-3490",
+      "mail": "ashleechambers@octocore.com",
+      "link": "laborumipsum.com",
+      "bemutatkozo": "Excepteur minim sunt officia et cupidatat qui amet occaecat amet reprehenderit consequat et proident id. Nisi id labore consequat officia anim duis in sint mollit deserunt anim dolore aute pariatur. Enim officia ad culpa deserunt quis magna nostrud ad ipsum sit sit. Ex tempor laborum exercitation occaecat non ipsum minim nostrud sunt occaecat proident nisi. Pariatur dolore veniam aliqua qui consequat cupidatat exercitation sit ut adipisicing nisi.\r\n",
+      "online": false,
+      "szulesfelkeszites": false,
+      "hely": {
+        "telepules": "Szeged",
+        "coord": [
+          21.33,
+          45.63
+        ],
+        "tavolsag": 73
+      },
+      "kompetenciak": [
+        "korai fejlesztő terapeuta",
+        "női kör vagy szertartás vezető, klub tartó"
+      ],
+      "altipus": [
+        "Konduktor"
+      ],
+      "nyelv": [
+        "orosz",
+        "spanyol",
+        "angol"
+      ],
+      "tovabbiKomp": [
+        "óvodapedagógus"
+      ]
+    },
+    {
+      "nev": "Araceli Alexander",
+      "picture": "21.jpg",
+      "tel": "+36 (985) 461-3536",
+      "mail": "aracelialexander@octocore.com",
+      "link": "etcommodo.com",
+      "bemutatkozo": "Sunt voluptate aliqua deserunt cillum ea amet consequat aliqua. Veniam proident aliquip dolore excepteur commodo. Ut dolor in veniam nulla elit duis laborum. Duis ullamco reprehenderit anim incididunt ad id nisi eu. Nisi do fugiat magna cupidatat tempor dolore. Nisi magna ullamco ut et cupidatat id ex reprehenderit officia tempor. Id consectetur id amet ea aliquip tempor officia minim incididunt.\r\n",
+      "online": false,
+      "szulesfelkeszites": true,
+      "hely": {
+        "telepules": "Budapest, 1. kerület",
+        "coord": [
+          18.48,
+          44.77
+        ],
+        "tavolsag": 100
+      },
+      "kompetenciak": [
+        "gyerekágyas segítő",
+        "pszichológus"
+      ],
+      "altipus": [],
+      "nyelv": [
+        "szlovák"
+      ],
+      "tovabbiKomp": [
+        "fitoterapeuta"
+      ]
+    },
+    {
+      "nev": "Darcy Campbell",
+      "picture": "53.jpg",
+      "tel": "+36 (849) 469-3000",
+      "mail": "darcycampbell@octocore.com",
+      "link": "incididuntcillum.com",
+      "bemutatkozo": "Incididunt minim ex duis amet est sunt ut. Consectetur veniam elit ex eiusmod ipsum dolore dolore labore ipsum Lorem ea laborum ad. Officia exercitation consectetur nulla labore et sit. Irure sint cillum ad ex commodo.\r\n",
+      "online": false,
+      "szulesfelkeszites": true,
+      "hely": {
+        "telepules": "Veszprém",
+        "coord": [
+          22.23,
+          48.08
+        ],
+        "tavolsag": 56
+      },
+      "kompetenciak": [
+        "dúla",
+        "hordozási tanácsadó",
+        "masszőr, gyógytornász, kinesiotape szakértő, egyéb terapeuta"
+      ],
+      "altipus": [
+        "várandósságkísérő dúla",
+        "szüléskísérő dúla",
+        "masszőr"
+    ],
+      "nyelv": [
+        "angol"
+      ],
+      "tovabbiKomp": [
+        "művészetterapeuta"
+      ]
+    },
+    {
+      "nev": "Melva Brennan",
+      "picture": "15.jpg",
+      "tel": "+36 (830) 403-3239",
+      "mail": "melvabrennan@octocore.com",
+      "link": "essevoluptate.com",
+      "bemutatkozo": "Exercitation eiusmod commodo nisi voluptate ipsum est consequat commodo occaecat mollit. Et ex anim id ea. Magna ex deserunt elit irure quis adipisicing eu.\r\n",
+      "online": false,
+      "szulesfelkeszites": true,
+      "hely": {
+        "telepules": "Veszprém",
+        "coord": [
+          20.43,
+          46.91
+        ],
+        "tavolsag": 71
+      },
+      "kompetenciak": [
+        "pszichológus",
+        "babamasszázs oktató",
+        "szoptatási tanácsadó vagy segítő",
+        "perinatális szaktanácsadó"
+      ],
+      "altipus": [
+        "önkéntes szoptatási segítő"
+      ],
+      "nyelv": [
+        "francia"
+      ],
+      "tovabbiKomp": [
+        "munkajogász",
+        "fotós"
+      ]
+    },
+    {
+      "nev": "Hartman Sears",
+      "picture": "63.jpg",
+      "tel": "+36 (919) 471-2326",
+      "mail": "hartmansears@octocore.com",
+      "link": "quistempor.com",
+      "bemutatkozo": "Fugiat magna reprehenderit sint voluptate quis laborum voluptate pariatur est et. Amet veniam ad irure incididunt. Cupidatat veniam laborum aliquip sunt excepteur reprehenderit. Non sint labore aliqua tempor.\r\n",
+      "online": false,
+      "szulesfelkeszites": true,
+      "hely": {},
+      "kompetenciak": [
+        "női kör vagy szertartás vezető, klub tartó",
+        "egyéb perintaásis mentális segítő"
+      ],
+      "altipus": [
+        "coach", 
+        "mentálhigiénés szakemer"
+      ],
+      "nyelv": [
+        "angol"
+      ],
+      "tovabbiKomp": []
+    },
+    {
+      "nev": "Gutierrez Howell",
+      "picture": "7.jpg",
+      "tel": "+36 (971) 433-2197",
+      "mail": "gutierrezhowell@octocore.com",
+      "link": "aliquipnostrud.com",
+      "bemutatkozo": "Ea enim consequat laboris quis nostrud consectetur sunt elit qui dolor fugiat id mollit anim. Aute amet minim culpa reprehenderit voluptate consectetur. Id laboris duis laborum excepteur eiusmod. Cillum sit proident cupidatat amet.\r\n",
+      "online": true,
+      "szulesfelkeszites": true,
+      "hely": {
+        "telepules": "Budapest, 3. kerület",
+        "coord": [
+          16.74,
+          45.97
+        ],
+        "tavolsag": 60
+      },
+      "kompetenciak": [
+        "női kör vagy szertartás vezető, klub tartó",
+        "dúla"
+      ],
+      "altipus": [
+        "szüléskísérő dúla",
+        "gyerekágyas dúla"
+      ],
+      "nyelv": [],
+      "tovabbiKomp": [
+        "fotós"
+      ]
+    },
+    {
+      "nev": "Savannah Christensen",
+      "picture": "35.jpg",
+      "tel": "+36 (850) 479-3203",
+      "mail": "savannahchristensen@octocore.com",
+      "link": "deseruntreprehenderit.com",
+      "bemutatkozo": "Quis ex anim voluptate dolor anim elit deserunt sint est fugiat quis do eu nulla. Excepteur veniam amet anim magna aliqua mollit. Esse amet cupidatat non exercitation ut commodo in occaecat do aliqua veniam adipisicing. Culpa officia consequat magna aliquip cupidatat. Nostrud velit commodo in qui laborum fugiat nulla Lorem voluptate occaecat irure excepteur. Quis adipisicing voluptate anim consequat tempor mollit.\r\n",
+      "online": false,
+      "szulesfelkeszites": true,
+      "hely": {
+        "telepules": "Budapest, 15. kerület",
+        "coord": [
+          22.05,
+          46.78
+        ],
+        "tavolsag": 72
+      },
+      "kompetenciak": [
+        "babamasszázs oktató",
+        "dúla"
+      ],
+      "altipus": [],
+      "nyelv": [
+        "német"
+      ],
+      "tovabbiKomp": [
+        "fitoterapeuta",
+        "fotós"
+      ]
+    },
+    {
+      "nev": "Harrell Petersen",
+      "picture": "45.jpg",
+      "tel": "+36 (967) 491-3838",
+      "mail": "harrellpetersen@octocore.com",
+      "link": "auteadipisicing.com",
+      "bemutatkozo": "Dolor dolor exercitation voluptate dolore excepteur anim. Sunt dolor exercitation fugiat ipsum velit sunt. Deserunt laboris do elit Lorem eiusmod aute eiusmod ullamco labore nulla. Ad enim sint magna eiusmod culpa eiusmod aliquip nulla aliqua ullamco sint. Eu aliquip anim duis voluptate elit esse commodo veniam labore ut esse fugiat tempor. Aliqua labore aliqua qui dolor ex amet tempor voluptate veniam est. Ea exercitation minim consectetur ipsum elit anim amet sit non minim.\r\n",
+      "online": true,
+      "szulesfelkeszites": false,
+      "hely": {
+        "telepules": "Budapest, 11. kerület",
+        "coord": [
+          22.14,
+          44.65
+        ],
+        "tavolsag": 83
+      },
+      "kompetenciak": [
+        "szoptatási tanácsadó vagy segítő"
+      ],
+      "altipus": [
+        "IBCLC"
+      ],
+      "nyelv": [],
+      "tovabbiKomp": [
+        "védőnő"
+      ]
+    },
+    {
+      "nev": "Forbes Guerrero",
+      "picture": "9.jpg",
+      "tel": "+36 (903) 531-3505",
+      "mail": "forbesguerrero@octocore.com",
+      "link": "nullamagna.com",
+      "bemutatkozo": "Eiusmod Lorem cillum est pariatur voluptate adipisicing velit pariatur do. Nulla ipsum labore duis magna anim ad Lorem commodo enim. Eiusmod dolor qui irure elit cillum anim. Consectetur nostrud do nisi consectetur sunt duis irure sit qui. Proident officia nulla dolore enim anim in commodo. Do enim proident ex nostrud consectetur culpa. In fugiat tempor quis voluptate.\r\n",
+      "online": false,
+      "szulesfelkeszites": true,
+      "hely": {
+        "telepules": "Szeged",
+        "coord": [
+          16.84,
+          46.24
+        ],
+        "tavolsag": 6
+      },
+      "kompetenciak": [
+        "szülő-gyerek konzulens",
+        "női kör vagy szertartás vezető, klub tartó"
+      ],
+      "altipus": [],
+      "nyelv": [],
+      "tovabbiKomp": [
+        "művészetterapeuta"
+      ]
+    },
+    {
+      "nev": "Leah Harris",
+      "picture": "1.jpg",
+      "tel": "+36 (860) 599-3621",
+      "mail": "leahharris@octocore.com",
+      "link": "adipisicingaute.com",
+      "bemutatkozo": "Adipisicing cillum consequat eiusmod dolor ullamco nisi esse culpa. Labore voluptate mollit enim sit dolor ullamco cupidatat Lorem irure nostrud. Ex labore ullamco deserunt commodo cillum culpa. Esse consectetur incididunt duis anim veniam sint esse fugiat excepteur et. Enim non dolore eu officia. Dolore laboris commodo tempor amet tempor.\r\n",
+      "online": true,
+      "szulesfelkeszites": true,
+      "hely": {
+        "telepules": "Budapest, 3. kerület",
+        "coord": [
+          19.76,
+          47.6
+        ],
+        "tavolsag": 97
+      },
+      "kompetenciak": [
+        "perinatális szaktanácsadó",
+        "masszőr, gyógytornász, kinesiotape szakértő, egyéb terapeuta",
+        "dúla"
+      ],
+      "altipus": [
+        "várandósságkísérő dúla",
+        "gyerekágyas dúla",
+        "kinesiotape szakértő"
+      ],
+      "nyelv": [
+        "angol"
+      ],
+      "tovabbiKomp": [
+        "dietetikus"
+      ]
+    },
+    {
+      "nev": "Sullivan Maddox",
+      "picture": "40.jpg",
+      "tel": "+36 (972) 437-2645",
+      "mail": "sullivanmaddox@octocore.com",
+      "link": "laborisnon.com",
+      "bemutatkozo": "Enim fugiat eiusmod reprehenderit excepteur ut est Lorem cillum sint labore id laborum reprehenderit. Enim veniam sint esse cillum ullamco in dolore tempor eiusmod est voluptate. Tempor enim sunt dolore ipsum. Reprehenderit cupidatat commodo non ex nulla amet dolor labore occaecat excepteur reprehenderit nostrud nulla ipsum. Esse mollit cillum ullamco exercitation cupidatat eu. Proident ullamco laborum consequat laborum mollit minim qui labore elit aliqua ad dolore. Nisi adipisicing excepteur minim occaecat do adipisicing aliqua do aute enim ex commodo sit.\r\n",
+      "online": false,
+      "szulesfelkeszites": true,
+      "hely": {},
+      "kompetenciak": [
+        "szülő-gyerek konzulens",
+        "perinatális szaktanácsadó"
+      ],
+      "altipus": [],
+      "nyelv": [
+        "német"
+      ],
+      "tovabbiKomp": []
+    }
+  ]

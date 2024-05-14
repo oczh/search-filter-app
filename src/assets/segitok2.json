@@ -1,0 +1,244 @@
+[
+    {
+      "nev": "Strickland Washington",
+      "picture": "65.jpg",
+      "tel": "+36 (846) 479-3406",
+      "mail": "stricklandwashington@quilch.com",
+      "link": "ad qui.com",
+      "bemutatkozo": "Id amet est non proident minim velit. Id nostrud eiusmod qui enim est aute duis aute non non sunt ullamco. In quis elit cupidatat esse laborum magna eu.\r\n",
+      "online": true,
+      "szulesfelkeszites": false,
+      "hely": {
+        "telepules": "Kecskemét",
+        "coord": [
+          16.93,
+          47.54
+        ],
+        "tavolsag": 73
+      },
+      "kompetenciak": "korai fejlesztő terapeuta",
+      "altipus": "",
+      "nyelv": "spanyol",
+      "tovabbiKomp": "ápoló"
+    },
+    {
+      "nev": "Lorna Estrada",
+      "picture": "62.jpg",
+      "tel": "+36 (995) 589-2689",
+      "mail": "lornaestrada@quilch.com",
+      "link": "nostrud nulla.com",
+      "bemutatkozo": "Officia esse proident amet labore voluptate ad laborum cupidatat do elit voluptate nostrud laboris. Excepteur nostrud ullamco nisi duis eu sint consectetur. Esse non labore sunt mollit elit enim nostrud excepteur irure amet nisi reprehenderit consequat. Dolore exercitation cupidatat irure velit irure reprehenderit dolore.\r\n",
+      "online": true,
+      "szulesfelkeszites": false,
+      "hely": {
+        "telepules": "Salgótartján",
+        "coord": [
+          18.95,
+          46.2
+        ],
+        "tavolsag": 93
+      },
+      "kompetenciak": "női kör vagy szertartás vezető, klub tartó",
+      "altipus": "",
+      "nyelv": "szlovák",
+      "tovabbiKomp": "fotós"
+    },
+    {
+      "nev": "Mclaughlin Alston",
+      "picture": "50.jpg",
+      "tel": "+36 (866) 599-2142",
+      "mail": "mclaughlinalston@quilch.com",
+      "link": "ea sint.com",
+      "bemutatkozo": "Deserunt id quis ad in fugiat nulla voluptate exercitation qui. Ut incididunt labore pariatur est dolor nulla eiusmod tempor ullamco sunt sunt. Aute velit reprehenderit adipisicing ullamco labore eu id amet ut elit non. Enim officia non dolore exercitation exercitation sint consequat laboris magna culpa Lorem qui et cillum. Enim commodo labore ipsum id consectetur qui. Quis enim qui ad do pariatur commodo laboris laboris. Ea laboris nisi cillum id laboris enim minim Lorem.\r\n",
+      "online": true,
+      "szulesfelkeszites": true,
+      "hely": {
+        "telepules": "Szeged",
+        "coord": [
+          16.32,
+          48.07
+        ],
+        "tavolsag": 67
+      },
+      "kompetenciak": "hordozási tanácsadó",
+      "altipus": "",
+      "nyelv": "német",
+      "tovabbiKomp": "óvodapedagógus"
+    },
+    {
+      "nev": "Billie Waller",
+      "picture": "11.jpg",
+      "tel": "+36 (993) 500-2095",
+      "mail": "billiewaller@quilch.com",
+      "link": "cupidatat quis.com",
+      "bemutatkozo": "Magna elit incididunt sint non consequat dolore tempor eiusmod occaecat. Mollit consequat id amet mollit magna occaecat dolor id ullamco mollit adipisicing dolor velit. Nulla cillum voluptate occaecat pariatur non officia ullamco occaecat occaecat culpa nulla aliquip culpa sint.\r\n",
+      "online": true,
+      "szulesfelkeszites": false,
+      "hely": {
+        "telepules": "",
+        "coord": [
+          16.94,
+          45.49
+        ],
+        "tavolsag": 2
+      },
+      "kompetenciak": "pszichológus",
+      "altipus": "",
+      "nyelv": "német",
+      "tovabbiKomp": "fotós"
+    },
+    {
+      "nev": "Adeline Huffman",
+      "picture": "2.jpg",
+      "tel": "+36 (963) 594-3528",
+      "mail": "adelinehuffman@quilch.com",
+      "link": "nulla quis.com",
+      "bemutatkozo": "Nisi quis irure irure velit voluptate mollit veniam incididunt velit velit nisi. Esse consectetur sit veniam pariatur ut mollit qui sint labore mollit velit exercitation. Elit ex ut magna do aliqua ipsum eu aute dolor. Ullamco officia consectetur dolor ex laborum ipsum pariatur elit proident. Ut dolore excepteur ex amet eu excepteur culpa dolore enim nulla laborum.\r\n",
+      "online": false,
+      "szulesfelkeszites": false,
+      "hely": {
+        "telepules": "Budapest, 15. kerület",
+        "coord": [
+          16.84,
+          45.41
+        ],
+        "tavolsag": 37
+      },
+      "kompetenciak": "tréner, jógaoktató, más mozgásforma oktatója",
+      "altipus": "",
+      "nyelv": "francia",
+      "tovabbiKomp": ""
+    },
+    {
+      "nev": "Sharlene Richards",
+      "picture": "67.jpg",
+      "tel": "+36 (873) 562-3290",
+      "mail": "sharlenerichards@quilch.com",
+      "link": "consequat quis.com",
+      "bemutatkozo": "Id veniam nostrud enim Lorem adipisicing. Mollit sit nisi qui mollit do nisi consectetur ut. Pariatur culpa duis quis mollit fugiat dolor ipsum nostrud reprehenderit aliqua sunt nostrud aliqua quis. Deserunt pariatur est do cillum adipisicing exercitation incididunt nulla laboris do incididunt reprehenderit id velit. Laboris irure ad minim ad pariatur culpa elit amet cillum. Ea excepteur ut velit sint sint.\r\n",
+      "online": false,
+      "szulesfelkeszites": true,
+      "hely": {
+        "telepules": "Budapest, 15. kerület",
+        "coord": [
+          20.04,
+          47.21
+        ],
+        "tavolsag": 53
+      },
+      "kompetenciak": "hordozási tanácsadó",
+      "altipus": "",
+      "nyelv": "angol",
+      "tovabbiKomp": "fotós"
+    },
+    {
+      "nev": "Estes Mason",
+      "picture": "68.jpg",
+      "tel": "+36 (933) 553-2864",
+      "mail": "estesmason@quilch.com",
+      "link": "esse veniam.com",
+      "bemutatkozo": "Sit minim eu laboris occaecat esse pariatur anim irure dolore duis Lorem commodo aliqua. Cillum est non aute voluptate magna. Id ullamco culpa reprehenderit esse cillum reprehenderit. Id est eu sunt aute minim adipisicing enim eiusmod incididunt culpa labore ad. Nisi tempor id cillum anim aliquip ad enim.\r\n",
+      "online": false,
+      "szulesfelkeszites": true,
+      "hely": {
+        "telepules": "Salgótartján",
+        "coord": [
+          22.1,
+          46.25
+        ],
+        "tavolsag": 40
+      },
+      "kompetenciak": "perinatális szaktanácsadó",
+      "altipus": "",
+      "nyelv": "szlovák",
+      "tovabbiKomp": ""
+    },
+    {
+      "nev": "Rachael Mcguire",
+      "picture": "28.jpg",
+      "tel": "+36 (957) 557-3696",
+      "mail": "rachaelmcguire@quilch.com",
+      "link": "dolore sunt.com",
+      "bemutatkozo": "Aute est nisi nostrud proident nisi. Velit Lorem duis elit aliquip deserunt dolore dolor dolor est eiusmod reprehenderit labore exercitation. Commodo commodo ex laboris dolore minim duis incididunt amet consectetur consequat aliqua. Qui incididunt excepteur dolor non elit eu culpa commodo cillum non tempor. Consequat non id fugiat id labore culpa eiusmod aute aliquip aliqua ullamco magna irure culpa. Labore nulla enim eiusmod sunt tempor cupidatat veniam consequat et exercitation esse.\r\n",
+      "online": false,
+      "szulesfelkeszites": false,
+      "hely": {
+        "telepules": "Veszprém",
+        "coord": [
+          21.98,
+          46.3
+        ],
+        "tavolsag": 34
+      },
+      "kompetenciak": "szoptatási tanácsadó vagy segítő",
+      "altipus": "",
+      "nyelv": "",
+      "tovabbiKomp": ""
+    },
+    {
+      "nev": "Patrice Sloan",
+      "picture": "48.jpg",
+      "tel": "+36 (854) 499-3115",
+      "mail": "patricesloan@quilch.com",
+      "link": "et culpa.com",
+      "bemutatkozo": "Cupidatat ex ut sit sunt nostrud sit ullamco amet incididunt Lorem do aliquip elit ad. Ad duis elit magna anim aute nulla exercitation occaecat nostrud magna eiusmod. Ex non labore voluptate fugiat occaecat ullamco veniam quis occaecat Lorem nisi dolor nisi.\r\n",
+      "online": true,
+      "szulesfelkeszites": true,
+      "hely": {
+        "telepules": "Budapest, 1. kerület",
+        "coord": [
+          19.66,
+          46.71
+        ],
+        "tavolsag": 41
+      },
+      "kompetenciak": "dúla",
+      "altipus": "",
+      "nyelv": "francia",
+      "tovabbiKomp": "fitoterapeuta"
+    },
+    {
+      "nev": "Vera Goodman",
+      "picture": "41.jpg",
+      "tel": "+36 (803) 597-2511",
+      "mail": "veragoodman@quilch.com",
+      "link": "occaecat dolore.com",
+      "bemutatkozo": "Ullamco velit officia exercitation ipsum. Irure reprehenderit ullamco fugiat id Lorem aute dolor occaecat fugiat sint enim culpa exercitation amet. Culpa quis aute nulla occaecat in do laborum voluptate quis officia esse do.\r\n",
+      "online": true,
+      "szulesfelkeszites": false,
+      "hely": {
+        "telepules": "Kecskemét",
+        "coord": [
+          16.48,
+          45.88
+        ],
+        "tavolsag": 80
+      },
+      "kompetenciak": "tréner, jógaoktató, más mozgásforma oktatója",
+      "altipus": "",
+      "nyelv": "",
+      "tovabbiKomp": "fitoterapeuta"
+    },
+    {
+      "nev": "Etta Leach",
+      "picture": "49.jpg",
+      "tel": "+36 (966) 531-2283",
+      "mail": "ettaleach@quilch.com",
+      "link": "cupidatat dolor.com",
+      "bemutatkozo": "Dolor mollit irure eu laborum ullamco occaecat do dolore cillum amet ex reprehenderit occaecat qui. Dolor eu aliquip minim non cillum sint irure laboris voluptate ad. Ut aute laboris dolore sunt ea. Proident officia occaecat ut Lorem consectetur excepteur. Consequat esse ullamco veniam do.\r\n",
+      "online": false,
+      "szulesfelkeszites": true,
+      "hely": {
+        "telepules": "Budapest, 1. kerület",
+        "coord": [
+          21.58,
+          47.69
+        ],
+        "tavolsag": 82
+      },
+      "kompetenciak": "női kör vagy szertartás vezető, klub tartó",
+      "altipus": "",
+      "nyelv": "német",
+      "tovabbiKomp": "fotós"
+    }
+  ]

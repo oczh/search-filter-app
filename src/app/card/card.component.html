@@ -1,0 +1,55 @@
+<img class="card-img-top" src="https://xsgames.co/randomusers/assets/avatars/female/{{segito.picture}}" alt="Card image cap">
+<div class="card-body">
+  <h4 class="card-title">{{segito.nev}}</h4>
+  <h5 class="card-title">{{segito.kompetenciak | showArray}}</h5>
+  <h6 class="card-title">{{segito.altipus | showArray}}</h6>
+  <p class="card-text">{{segito.bemutatkozo}}</p>
+</div>
+<ul class="list-group list-group-flush">
+  <li class="list-group-item" *ngIf="segito.hely?.telepules?.length != undefined">
+    Helyszín: {{segito.hely?.telepules}} + {{segito.hely?.tavolsag}}km
+  </li>
+  <li class="list-group-item" *ngIf="segito.nyelv?.length != 0">
+    Beszélt idegennyelvek: {{segito.nyelv | showArray}}
+  </li>
+  <li class="list-group-item" *ngIf="segito.tovabbiKomp?.length != 0">
+    További szakterületek: {{segito.tovabbiKomp | showArray}}
+  </li>
+  <li class="list-group-item" *ngIf="segito.online == true">Online kapcsolattartást vállal</li>
+  <li class="list-group-item" *ngIf="segito.szulesfelkeszites">Szülésfelkészítést vállal</li>
+</ul>
+<div class="card-body">
+  <a href="{{segito.link}}" class="card-link">{{segito.link}}</a><br>
+  <a href="mailto:{{segito.mail}}" class="card-link">{{segito.mail}}</a><br>
+  <a href="tel:{{segito.tel}}" class="card-link">{{segito.tel}}</a>
+</div>
+
+<!--https://xsgames.co/randomusers/assets/avatars/female/22.jpg
+<div>
+    <span>Név: {{segito.nev}}</span><br>
+    <span>Kompetenciák: {{segito.kompetenciak}}</span><br>
+    <span>Bemutatkozó{{segito.bemutatkozo}}</span>
+    <img src="https://xsgames.co/randomusers/assets/avatars/female/ + {{segito.picture}}" alt="">
+</div>
+<div class="col-md-6">
+    <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+      <div class="col p-4 d-flex flex-column position-static">
+        <strong class="d-inline-block mb-2 text-success">{{segito.kompetenciak}}</strong>
+        <p class="mb-1 text-succes">{{segito.altipus}}</p>
+        <h3 class="mb-0">{{segito.nev}}</h3>
+        
+        <div class="mb-1 text-muted">{{service.city(segito.longitude, segito.latitude)}} + {{segito.tavolsag}}</div>
+        
+        <p class="mb-auto">{{segito.bemutatkozo}}</p>
+        <a href="#" class="stretched-link">{{segito.mail}}</a>
+        <a href="#" class="stretched-link">{{segito.tel}}</a>
+        <a href="#" class="stretched-link">{{segito.link}}</a>
+      </div>
+      <div class="col-auto d-lg-block">
+        <img class="bd-placeholder-img" width="200" height="250" 
+            src="https://xsgames.co/randomusers/assets/avatars/female/{{segito.picture}}">
+      </div>
+    </div>
+  </div>-->
+<!--  
+preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: Thumbnail"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"></rect><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text>-->
